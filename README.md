@@ -1,4 +1,4 @@
-<h1> Hi there 👋</h1>
+## Hi there 👋
 
 <!--
 **Al-Mutawakkil/Al-Mutawakkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
