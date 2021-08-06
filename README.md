@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Some Mobile FrontEnd Project**
 
