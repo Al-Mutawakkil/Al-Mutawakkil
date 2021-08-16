@@ -1,10 +1,10 @@
 # Hi there 👋
 
-<h3 align="center">A passionate FrontEnd Developer from Indonesia</h3>
+<h3 align="center">A Passionate FrontEnd Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Some Mobile FrontEnd Project**
 
-- 🌱 I’m currently learning **Flutter & Dart.**
+- 🌱 I’m currently learning **Flutter.**
 
 - 📫 How to reach me **Thufails505@gmail.com**
 
